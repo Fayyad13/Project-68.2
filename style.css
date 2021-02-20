@@ -1,0 +1,34 @@
+marquee{
+    background-color: blue;
+    color: white;
+}
+#contactUs iframe
+{
+    width: 100%;
+}
+.travel_main{
+    border: 1px solid green;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+    margin-bottom: 20px;
+}
+.travel_main img{
+    width: 100%;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+#runningclub{
+    text-align: center;
+    padding-left: 250px;
+    padding-right: 250px;
+}
